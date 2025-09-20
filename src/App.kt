@@ -50,4 +50,63 @@ fun main() {
     if ( n in 1..12){
         println("Ваш индекс $n оотвествует месяцу $month")
     }*/
+
+    /*println("Введите урон: ")
+    val n = readln().toInt()
+    println("Щит активен(введите да или нет)")
+    val a = readln().toString()
+    if (a == "да"){
+        println(n/2)}
+    else {
+        println(n)}*/
+
+    /*println("Введите level: ")
+    val n = readln().toInt()
+    println("Есть ли у вас вип статус: ")
+    val a = readln().toBoolean()
+    if (n >= 30 && a || n >= 50){
+        println("Доступ разрешен!")}
+    else {
+        println("Доступ запрещен!")
+    }*/
+
+    /*println("Введите level: ")
+    val n = readln().toInt()
+    if (n in 1..50) {
+        println("Мы вошли в дандж")
+    }
+    else {
+        println("Уходи")
+    }*/
+
+
+    /*val b = "z" .. "a"
+
+    val s = 5 until 11
+    for(i in s) {
+        println(i)
+    }
+    println("-----------------------------------------------------------")
+    val a = 10 until 50 step 3
+    for(i in a) {
+        println(i)
+    }*/
+
+    fun main() {
+    /*repeat(times = 5){
+        println("Начинаем ритуал защиты!")
+        println("Заклинание защиты активировано!")
+        println("Заклинание защиты активировано!")
+        println("Заклинание защиты активировано!")
+        println("Заклинание защиты активировано!")
+        println("Заклинание защиты активировано!")
+        println("Замок защищен!")
+    var index = 0
+        repeat(times = 5) {
+            println("Заклинание защиты активировано! (Шаг ${index + 1})")
+            index ++
+        }
+    }*/
+
+}
 }
